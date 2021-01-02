@@ -1,17 +1,8 @@
 # check-if-smtp-email-exists-master
 If you don't have time to waste configuring, hosting, debugging and maintaining your own email verifier, here a **SaaS** based solution is provided
 
-[![Crate](https://img.shields.io/crates/v/check-if-email-exists.svg)](https://crates.io/crates/check-if-email-exists)
-[![Docs](https://docs.rs/check-if-email-exists/badge.svg)](https://docs.rs/check-if-email-exists)
-[![Actions Status](https://github.com/michaeljamescyrus/check-if-email-exists/workflows/CI/badge.svg)](https://github.com/michaeljamescyrus/check-if-email-exists/actions)
-[![Travis](https://img.shields.io/travis/michaeljamescyrus/check-if-email-exists.svg)](https://travis-ci.org/michaeljamescyrus/check-if-email-exists)
-[![Appveyor](https://ci.appveyor.com/api/projects/status/github/michaeljamescyrus/check-if-email-exists?branch=master&svg=true)](https://ci.appveyor.com/project/michaeljamescyrus/check-if-email-exists-a08kp)
-[![Github Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/michaeljamescyrus)](https://github.com/sponsors/michaeljamescyrus)
-
-<br /><br /><br />
-
-<h1 align="center">check-if-email-exists</h1>
-<h4 align="center">Check if an email address exists without sending any email.</h4>
+<h1 align="center">check-if-smtp-email-exists</h1>
+<h4 align="center">Check if an email address exists without sending any email to any sources.</h4>
 
 <br /><br /><br />
 
