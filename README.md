@@ -1,11 +1,11 @@
 # check-if-smtp-email-exists-master
-If you don't have time to configure, host, debugg and or maintain your own email verifier, here a **SaaS** based solution is provided
+If you don't have time to configure, host, debug and or maintain your own email verifier, here a **SaaS** based solution is provided
 
 <h1 align="center">check-if-smtp-email-exists</h1>
 <h4 align="center">Check if an email address exists without sending any email to any sources.</h4>
 
 <br /><br /><br />
-If you don't have time to configure, host, debugg and or maintain your own Email Verifier, here a **SaaS** based solution is provided that has all of the capabilities provided, plus a lot more, and all that packaged needed, in a nice friendly web based interface.
+If you don't have time to configure, host, debug and or maintain your own Email Verifier, here a **SaaS** based solution is provided that has all of the capabilities provided, plus a lot more, and all that packaged needed, in a nice friendly web based interface.
 <br />
 
 ## What Does This Tool Check?
